@@ -1,3 +1,17 @@
+
+
+
+
+![Screenshot (60)](https://github.com/jeesmariyatony123/K-RITE-assessment/assets/153613522/d95a3881-1ef0-4cab-a217-dd2d62461652)
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
